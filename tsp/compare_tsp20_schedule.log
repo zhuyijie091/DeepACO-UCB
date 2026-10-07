@@ -1,0 +1,17 @@
+
+============================================================
+2026-05-04T09:40:49.099120  tsp20
+schedule={'ucb_c': 0.8, 'ucb_schedule': 'exp', 'ucb_c_min': 0.05, 'ucb_tau': 20.0, 'stagnation_k': 10, 'boost_gamma': 2.0, 'ucb_c_max': 2.0, 'boost_cooldown': 5}
+============================================================
+
+== tsp20 schedule == full=1280 subset(step=1)=1280 k_sparse=10 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 100]
+
+[schedule cfg] {'ucb_c': 0.8, 'ucb_schedule': 'exp', 'ucb_c_min': 0.05, 'ucb_tau': 20.0, 'stagnation_k': 10, 'boost_gamma': 2.0, 'ucb_c_max': 2.0, 'boost_cooldown': 5}
+[schedule] duration=1544.41s
+  T=  1  avg_cost=3.972020
+  T= 10  avg_cost=3.864520
+  T= 20  avg_cost=3.856413
+  T= 30  avg_cost=3.853604
+  T= 40  avg_cost=3.851844
+  T= 50  avg_cost=3.850435
+  T=100  avg_cost=3.847807

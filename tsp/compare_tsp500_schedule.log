@@ -1,0 +1,241 @@
+
+============================================================
+2026-05-04T09:00:23.173815  tsp500
+schedule={'ucb_c': 0.3, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 100]
+
+[schedule cfg] {'ucb_c': 0.3, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+[schedule] duration=370.22s
+  T=  1  avg_cost=20.872269
+  T= 10  avg_cost=19.889318
+  T= 20  avg_cost=19.440920
+  T= 30  avg_cost=19.246210
+  T= 40  avg_cost=19.137581
+  T= 50  avg_cost=19.054726
+  T=100  avg_cost=18.795822
+
+============================================================
+2026-05-04T09:06:56.926663  tsp500
+schedule={'ucb_c': 0.3, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 100]
+
+[schedule cfg] {'ucb_c': 0.3, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+[schedule] duration=369.10s
+  T=  1  avg_cost=20.904461
+  T= 10  avg_cost=19.851749
+  T= 20  avg_cost=19.366024
+  T= 30  avg_cost=19.193073
+  T= 40  avg_cost=19.037144
+  T= 50  avg_cost=18.952835
+  T=100  avg_cost=18.780735
+
+============================================================
+2026-05-05T09:24:49.482463  tsp500
+schedule={'ucb_c': 0.3, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150]
+
+[schedule cfg] {'ucb_c': 0.3, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+[schedule] duration=543.91s
+  T=  1  avg_cost=20.920828
+  T= 10  avg_cost=19.862591
+  T= 20  avg_cost=19.512293
+  T= 30  avg_cost=19.226692
+  T= 40  avg_cost=19.068222
+  T= 50  avg_cost=18.944818
+  T= 60  avg_cost=18.912592
+  T= 70  avg_cost=18.883760
+  T= 80  avg_cost=18.862890
+  T= 90  avg_cost=18.838959
+  T=100  avg_cost=18.831795
+  T=110  avg_cost=18.819162
+  T=120  avg_cost=18.804976
+  T=130  avg_cost=18.791819
+  T=140  avg_cost=18.756477
+  T=150  avg_cost=18.756477
+
+============================================================
+2026-05-05T09:37:51.966200  tsp500
+schedule={'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150]
+
+[schedule cfg] {'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+[schedule] duration=542.63s
+  T=  1  avg_cost=21.063747
+  T= 10  avg_cost=20.220554
+  T= 20  avg_cost=19.685234
+  T= 30  avg_cost=19.432297
+  T= 40  avg_cost=19.220098
+  T= 50  avg_cost=19.130857
+  T= 60  avg_cost=19.027363
+  T= 70  avg_cost=18.963726
+  T= 80  avg_cost=18.890676
+  T= 90  avg_cost=18.820572
+  T=100  avg_cost=18.813440
+  T=110  avg_cost=18.801003
+  T=120  avg_cost=18.767895
+  T=130  avg_cost=18.760021
+  T=140  avg_cost=18.753080
+  T=150  avg_cost=18.747805
+
+============================================================
+2026-05-05T10:04:10.946130  tsp500
+schedule={'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+
+[schedule cfg] {'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 0, 'boost_gamma': 1.0, 'ucb_c_max': None, 'boost_cooldown': 0}
+[schedule] duration=730.21s
+  T=  1  avg_cost=21.008007
+  T= 10  avg_cost=20.238935
+  T= 20  avg_cost=19.677149
+  T= 30  avg_cost=19.466381
+  T= 40  avg_cost=19.280165
+  T= 50  avg_cost=19.091928
+  T= 60  avg_cost=18.926374
+  T= 70  avg_cost=18.877787
+  T= 80  avg_cost=18.844877
+  T= 90  avg_cost=18.841669
+  T=100  avg_cost=18.834110
+  T=110  avg_cost=18.829596
+  T=120  avg_cost=18.825821
+  T=130  avg_cost=18.806206
+  T=140  avg_cost=18.790083
+  T=150  avg_cost=18.779493
+  T=160  avg_cost=18.762224
+  T=170  avg_cost=18.759703
+  T=180  avg_cost=18.741943
+  T=190  avg_cost=18.738443
+  T=200  avg_cost=18.721655
+
+============================================================
+2026-05-05T10:22:11.350719  tsp500
+schedule={'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+
+[schedule cfg] {'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+[schedule] duration=727.13s
+  T=  1  avg_cost=21.066044
+  T= 10  avg_cost=20.153488
+  T= 20  avg_cost=19.711390
+  T= 30  avg_cost=19.393843
+  T= 40  avg_cost=19.131462
+  T= 50  avg_cost=19.048841
+  T= 60  avg_cost=18.970047
+  T= 70  avg_cost=18.935385
+  T= 80  avg_cost=18.905489
+  T= 90  avg_cost=18.883152
+  T=100  avg_cost=18.830742
+  T=110  avg_cost=18.794060
+  T=120  avg_cost=18.769451
+  T=130  avg_cost=18.756243
+  T=140  avg_cost=18.744726
+  T=150  avg_cost=18.742315
+  T=160  avg_cost=18.730234
+  T=170  avg_cost=18.719021
+  T=180  avg_cost=18.707840
+  T=190  avg_cost=18.707840
+  T=200  avg_cost=18.700060
+
+============================================================
+2026-05-05T10:37:52.945718  tsp500
+schedule={'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+
+[schedule cfg] {'ucb_c': 1.4, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+[schedule] duration=723.82s
+  T=  1  avg_cost=21.091837
+  T= 10  avg_cost=20.219551
+  T= 20  avg_cost=19.685366
+  T= 30  avg_cost=19.344349
+  T= 40  avg_cost=19.220196
+  T= 50  avg_cost=19.116846
+  T= 60  avg_cost=18.980120
+  T= 70  avg_cost=18.910492
+  T= 80  avg_cost=18.853361
+  T= 90  avg_cost=18.831209
+  T=100  avg_cost=18.821550
+  T=110  avg_cost=18.780392
+  T=120  avg_cost=18.766989
+  T=130  avg_cost=18.763483
+  T=140  avg_cost=18.748611
+  T=150  avg_cost=18.728413
+  T=160  avg_cost=18.728413
+  T=170  avg_cost=18.727329
+  T=180  avg_cost=18.727329
+  T=190  avg_cost=18.722883
+  T=200  avg_cost=18.691015
+
+============================================================
+2026-05-05T11:02:20.423793  tsp500
+schedule={'ucb_c': 1.6, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+
+[schedule cfg] {'ucb_c': 1.6, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+[schedule] duration=723.50s
+  T=  1  avg_cost=21.084288
+  T= 10  avg_cost=20.243324
+  T= 20  avg_cost=19.703075
+  T= 30  avg_cost=19.365173
+  T= 40  avg_cost=19.256922
+  T= 50  avg_cost=19.063517
+  T= 60  avg_cost=18.970282
+  T= 70  avg_cost=18.942638
+  T= 80  avg_cost=18.806444
+  T= 90  avg_cost=18.787655
+  T=100  avg_cost=18.773289
+  T=110  avg_cost=18.762329
+  T=120  avg_cost=18.741222
+  T=130  avg_cost=18.724747
+  T=140  avg_cost=18.724747
+  T=150  avg_cost=18.721476
+  T=160  avg_cost=18.696722
+  T=170  avg_cost=18.694754
+  T=180  avg_cost=18.680086
+  T=190  avg_cost=18.680086
+  T=200  avg_cost=18.680086
+
+============================================================
+2026-05-05T11:20:24.523403  tsp500
+schedule={'ucb_c': 2, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+============================================================
+
+== tsp500 schedule == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+
+[schedule cfg] {'ucb_c': 2, 'ucb_schedule': 'exp', 'ucb_c_min': 0.0, 'ucb_tau': 10.0, 'stagnation_k': 10, 'boost_gamma': 5.0, 'ucb_c_max': None, 'boost_cooldown': 10}
+[schedule] duration=727.42s
+  T=  1  avg_cost=21.096403
+  T= 10  avg_cost=20.289539
+  T= 20  avg_cost=19.742874
+  T= 30  avg_cost=19.409866
+  T= 40  avg_cost=19.298759
+  T= 50  avg_cost=19.083586
+  T= 60  avg_cost=18.924084
+  T= 70  avg_cost=18.870035
+  T= 80  avg_cost=18.855190
+  T= 90  avg_cost=18.840063
+  T=100  avg_cost=18.824997
+  T=110  avg_cost=18.756374
+  T=120  avg_cost=18.741934
+  T=130  avg_cost=18.737417
+  T=140  avg_cost=18.737417
+  T=150  avg_cost=18.730127
+  T=160  avg_cost=18.722401
+  T=170  avg_cost=18.699732
+  T=180  avg_cost=18.699732
+  T=190  avg_cost=18.699732
+  T=200  avg_cost=18.699732

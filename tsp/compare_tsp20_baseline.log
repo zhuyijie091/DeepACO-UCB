@@ -1,0 +1,10 @@
+== tsp20 baseline == full=1280 subset(step=1)=1280 k_sparse=10 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 100]
+
+[baseline c=0] duration=1544.55s
+  T=  1  avg_cost=3.968287
+  T= 10  avg_cost=3.863602
+  T= 20  avg_cost=3.855592
+  T= 30  avg_cost=3.853167
+  T= 40  avg_cost=3.851936
+  T= 50  avg_cost=3.851151
+  T=100  avg_cost=3.848487

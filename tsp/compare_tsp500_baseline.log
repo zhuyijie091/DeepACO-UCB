@@ -1,0 +1,24 @@
+== tsp500 baseline == full=128 subset(step=8)=16 k_sparse=50 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+
+[baseline c=0] duration=734.12s
+  T=  1  avg_cost=20.961203
+  T= 10  avg_cost=19.673380
+  T= 20  avg_cost=19.423306
+  T= 30  avg_cost=19.240623
+  T= 40  avg_cost=19.044125
+  T= 50  avg_cost=18.984301
+  T= 60  avg_cost=18.883335
+  T= 70  avg_cost=18.848593
+  T= 80  avg_cost=18.836060
+  T= 90  avg_cost=18.788584
+  T=100  avg_cost=18.766872
+  T=110  avg_cost=18.760654
+  T=120  avg_cost=18.741608
+  T=130  avg_cost=18.728489
+  T=140  avg_cost=18.713387
+  T=150  avg_cost=18.694096
+  T=160  avg_cost=18.694096
+  T=170  avg_cost=18.693224
+  T=180  avg_cost=18.693224
+  T=190  avg_cost=18.693224
+  T=200  avg_cost=18.693224

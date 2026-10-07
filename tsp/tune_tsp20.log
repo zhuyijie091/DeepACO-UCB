@@ -1,0 +1,91 @@
+tsp20 DeepACO grid | maps=100 ants=20 t_aco=[1, 10, 20, 30, 40, 50, 100] device=cuda:0 | log=tune_tsp20.log
+
+ucb_c=0.3 ucb_tau=10
+total duration:  83.3406310081482
+T=1, average cost is 3.924496650695801.
+T=10, average cost is 3.82624888420105.
+T=20, average cost is 3.8171756267547607.
+T=30, average cost is 3.8148624897003174.
+T=40, average cost is 3.8129355907440186.
+T=50, average cost is 3.8126351833343506.
+T=100, average cost is 3.811464786529541.
+
+ucb_c=0.3 ucb_tau=20
+total duration:  80.66392159461975
+T=1, average cost is 3.9176652431488037.
+T=10, average cost is 3.8274776935577393.
+T=20, average cost is 3.820162296295166.
+T=30, average cost is 3.8148653507232666.
+T=40, average cost is 3.8134987354278564.
+T=50, average cost is 3.812824010848999.
+T=100, average cost is 3.809197187423706.
+
+ucb_c=0.3 ucb_tau=50
+total duration:  81.04611158370972
+T=1, average cost is 3.9341201782226562.
+T=10, average cost is 3.826523542404175.
+T=20, average cost is 3.8194169998168945.
+T=30, average cost is 3.8166344165802.
+T=40, average cost is 3.8154284954071045.
+T=50, average cost is 3.8146657943725586.
+T=100, average cost is 3.8098292350769043.
+
+ucb_c=0.5 ucb_tau=10
+total duration:  81.10351538658142
+T=1, average cost is 3.9395954608917236.
+T=10, average cost is 3.8278188705444336.
+T=20, average cost is 3.817570209503174.
+T=30, average cost is 3.816457509994507.
+T=40, average cost is 3.814441680908203.
+T=50, average cost is 3.813770294189453.
+T=100, average cost is 3.810795545578003.
+
+ucb_c=0.5 ucb_tau=20
+total duration:  81.20836114883423
+T=1, average cost is 3.930950880050659.
+T=10, average cost is 3.825841188430786.
+T=20, average cost is 3.817843437194824.
+T=30, average cost is 3.814692497253418.
+T=40, average cost is 3.81365966796875.
+T=50, average cost is 3.8127644062042236.
+T=100, average cost is 3.811466693878174.
+
+ucb_c=0.5 ucb_tau=50
+total duration:  81.68767952919006
+T=1, average cost is 3.9330689907073975.
+T=10, average cost is 3.828284740447998.
+T=20, average cost is 3.8172831535339355.
+T=30, average cost is 3.814998149871826.
+T=40, average cost is 3.813599109649658.
+T=50, average cost is 3.8111367225646973.
+T=100, average cost is 3.809711217880249.
+
+ucb_c=0.8 ucb_tau=10
+total duration:  81.6887834072113
+T=1, average cost is 3.9298675060272217.
+T=10, average cost is 3.8285982608795166.
+T=20, average cost is 3.819523334503174.
+T=30, average cost is 3.817676067352295.
+T=40, average cost is 3.8165154457092285.
+T=50, average cost is 3.8140785694122314.
+T=100, average cost is 3.8114984035491943.
+
+ucb_c=0.8 ucb_tau=20
+total duration:  80.51607489585876
+T=1, average cost is 3.9383065700531006.
+T=10, average cost is 3.8283374309539795.
+T=20, average cost is 3.8179938793182373.
+T=30, average cost is 3.8159658908843994.
+T=40, average cost is 3.8150386810302734.
+T=50, average cost is 3.8137221336364746.
+T=100, average cost is 3.8116676807403564.
+
+ucb_c=0.8 ucb_tau=50
+total duration:  80.09656095504761
+T=1, average cost is 3.929887533187866.
+T=10, average cost is 3.8255903720855713.
+T=20, average cost is 3.8159408569335938.
+T=30, average cost is 3.814023733139038.
+T=40, average cost is 3.8130156993865967.
+T=50, average cost is 3.8130156993865967.
+T=100, average cost is 3.8108580112457275.

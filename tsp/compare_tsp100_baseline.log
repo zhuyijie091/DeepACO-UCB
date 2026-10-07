@@ -1,0 +1,19 @@
+== tsp100 baseline == full=1280 subset(step=8)=160 k_sparse=20 n_ants=20 t_aco=[1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150]
+
+[baseline c=0] duration=1234.90s
+  T=  1  avg_cost=8.998399
+  T= 10  avg_cost=8.481752
+  T= 20  avg_cost=8.369178
+  T= 30  avg_cost=8.316936
+  T= 40  avg_cost=8.293048
+  T= 50  avg_cost=8.274829
+  T= 60  avg_cost=8.253468
+  T= 70  avg_cost=8.242595
+  T= 80  avg_cost=8.234246
+  T= 90  avg_cost=8.226479
+  T=100  avg_cost=8.219060
+  T=110  avg_cost=8.212718
+  T=120  avg_cost=8.208442
+  T=130  avg_cost=8.201945
+  T=140  avg_cost=8.199124
+  T=150  avg_cost=8.193865
